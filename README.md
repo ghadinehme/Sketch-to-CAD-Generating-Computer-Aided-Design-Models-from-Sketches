@@ -4,7 +4,7 @@ This repository provides source code for our paper:
 
 [Sketch-to-CAD: Generating Computer Aided Design Models from Sketches](https://arxiv.org/)
 
-[Ghadi Nehme]([https://github.com/ghadinehme])
+[Ghadi Nehme](https://github.com/ghadinehme)
 
 <p align="center">
   <img src='poster.png' width=600>

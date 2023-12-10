@@ -29,3 +29,11 @@ Install [pythonocc](https://github.com/tpaviot/pythonocc-core) (OpenCASCADE) by 
 ```bash
 $ conda install -c conda-forge pythonocc-core=7.5.1
 ```
+
+## Data
+
+You can access the data [here](https://drive.google.com/drive/folders/13FZ24h3AXATECRAXUoudqsSEQ5esILnE?usp=sharing).
+
+## Models
+
+You can access the models [here](https://drive.google.com/drive/folders/1x4HmgKC--KD4f2iBZZ7qV0CxxgQR9hF3?usp=sharing).
